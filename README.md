@@ -11,9 +11,11 @@ A => Enter
 
 ![allow exe ps script](https://github.com/namtruong95/dsoft-setup/blob/main/allow-execute-script.png?raw=true)
 
-## Run script for setup ssl
+- Run script for setup ssl
 ```bash
 & "<path ps1 file>"
 # example
 & "C:\Users\namtruong\Documents\ssl.ps1"
 ```
+
+![run ps script](https://github.com/namtruong95/dsoft-setup/blob/main/exe-ps-script.png?raw=true)

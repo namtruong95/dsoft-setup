@@ -3,12 +3,14 @@
 
 ![open powershell](https://github.com/namtruong95/dsoft-setup/blob/main/open-powershell.png?raw=true)
 
-## allow run script
+- allow run script
 ```bash
 Set-ExecutionPolicy RemoteSigned
 ```
-
 A => Enter
+
+![allow exe ps script](https://github.com/namtruong95/dsoft-setup/blob/main/allow-execute-script.png?raw=true)
+
 ## Run script for setup ssl
 ```bash
 & "<path ps1 file>"

@@ -8,5 +8,6 @@ A => Enter
 ## Run script for setup ssl
 ```bash
 & "<path ps1 file>"
+# example
 & "C:\Users\namtruong\Documents\ssl.ps1"
 ```

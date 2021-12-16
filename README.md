@@ -14,9 +14,7 @@ A => Enter
 
 - Step 2: Download script from link:
 
-```bash
-https://raw.githubusercontent.com/namtruong95/dsoft-setup/main/window/ssl.ps1
-```
+[Download script here](https://raw.githubusercontent.com/namtruong95/dsoft-setup/main/window/ssl.ps1)
 
 - Step 3: Execute script for setup self signed certificate 
 ```bash

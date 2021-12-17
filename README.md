@@ -25,10 +25,22 @@ A => Enter
 
 ![run ps script](https://github.com/namtruong95/dsoft-setup/blob/main/window/images/exe-ps-script.png?raw=true)
 
-## Linux (Ubuntu)
-
-TODO:
-
 ## MacOS
+
+- Step 1: Open terminal
+
+- Step 2: Run command, enter root password
+
+```bash
+sudo curl -fsSL https://raw.githubusercontent.com/namtruong95/dsoft-setup/main/macos/ssl.sh | sudo bash
+```
+
+![run ps script](https://github.com/namtruong95/dsoft-setup/blob/main/macos/images/exe-script.png?raw=true)
+
+- Done
+
+![run ps script](https://github.com/namtruong95/dsoft-setup/blob/main/macos/images/done.png?raw=true)
+
+## Linux (Ubuntu)
 
 TODO:
